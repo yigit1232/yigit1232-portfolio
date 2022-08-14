@@ -34,7 +34,7 @@ npm run build
 npm run test:unit
 ```
 # Go To My Website
-[site](https://yigit1232.github.io/)
+[yigit1232.github.io](https://yigit1232.github.io/)
 
 # Images
 
