@@ -35,6 +35,7 @@ npm run test:unit
 ```
 
 ### Images
+```sh
 ![web](https://user-images.githubusercontent.com/50154629/184557298-9cfa1b22-849e-4223-8c8b-a95c6f49cf2c.png)
 
 
