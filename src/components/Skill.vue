@@ -29,6 +29,10 @@
                         <el-progress :text-inside="true" :stroke-width="26" :percentage="40" />
                         </article>
                         <article class="progres">
+                        <div class="progres-title"><img src="/src/assets/bootstrap.svg" alt="sql" width="30"></div>
+                        <el-progress :text-inside="true" :stroke-width="26" status="warning" :percentage="60" />
+                        </article>
+                        <article class="progres">
                         <div class="progres-title"><img src="/src/assets/vuejs.svg" alt="vuejs" width="30"></div>
                         <el-progress :text-inside="true" status="success" :stroke-width="26" :percentage="15" />
                         </article>
