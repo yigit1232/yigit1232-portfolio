@@ -13,6 +13,10 @@
                         <el-progress :text-inside="true"  :stroke-width="26" :percentage="80" />
                         </article>
                         <article class="progres">
+                        <div class="progres-title"><img src="/src/assets/nodejs.svg" alt="django" width="50"></div>
+                        <el-progress :text-inside="true" status="exception" :stroke-width="26" :percentage="35" />
+                        </article>
+                        <article class="progres">
                         <div class="progres-title"><img src="/src/assets/python.svg" alt="python" width="25"></div>
                         <el-progress :text-inside="true" status="success" :stroke-width="26" :percentage="30" />
                         </article>
