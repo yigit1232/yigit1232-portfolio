@@ -38,9 +38,11 @@ npm run test:unit
 
 # Images
 
-![web](https://user-images.githubusercontent.com/50154629/184557298-9cfa1b22-849e-4223-8c8b-a95c6f49cf2c.png)
+![first](https://user-images.githubusercontent.com/50154629/184931962-17507095-8136-4a4f-b72e-921a0cfa55e6.png)
 
-![Untitled](https://user-images.githubusercontent.com/50154629/184557450-a2bb8dcc-e259-423a-8128-b8836c8765ad.png)
+![Adsız](https://user-images.githubusercontent.com/50154629/184931968-f9a0c4bf-df2b-4348-b000-660ca96b8f6b.png)
+
+
 
 
 
